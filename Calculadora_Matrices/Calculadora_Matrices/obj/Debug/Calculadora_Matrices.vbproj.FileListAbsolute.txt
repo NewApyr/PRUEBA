@@ -1,0 +1,10 @@
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\bin\Debug\Calculadora_Matrices.exe.config
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\bin\Debug\Calculadora_Matrices.exe
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\bin\Debug\Calculadora_Matrices.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\bin\Debug\Calculadora_Matrices.xml
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\obj\Debug\Calculadora_Matrices.Form1.resources
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\obj\Debug\Calculadora_Matrices.Resources.resources
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\obj\Debug\Calculadora_Matrices.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\obj\Debug\Calculadora_Matrices.exe
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\obj\Debug\Calculadora_Matrices.xml
+c:\users\kevin\documents\visual studio 2012\Projects\Calculadora_Matrices\Calculadora_Matrices\obj\Debug\Calculadora_Matrices.pdb
